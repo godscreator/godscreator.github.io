@@ -1,7 +1,7 @@
 var circleX;
 function setup() {
     createCanvas(1000,600);
-    circleX = 200;
+    circleX = 150;
 }
 
 function draw() {
